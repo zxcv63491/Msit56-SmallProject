@@ -1,0 +1,41 @@
+
+
+.takeMethod span {
+    font-size: 30px;
+    border: none;
+    outline: none;
+    color: black;
+    padding: 14px 16px;
+    background-color: rgb(14, 211, 14);
+    border-radius: 10px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+#packagerrr,#deliveryrrr{
+ max-width: 1000px;
+position: relative;
+margin: auto;
+
+}
+
+#packagerrr select,#deliveryrrr select{
+    background-color: rgb(252, 252, 251);
+    font-size: 20px;
+    text-align: right;
+    border: 1px black solid;
+    padding: 8px 16px;
+    margin: 4px;
+    width: 20%;
+    border-radius: 5px;
+}
+
+#packagerrr input,#deliveryrrr input{
+    background-color: white;
+    font-size: 20px;
+    text-align: right;
+    border: 1px black solid;
+    margin: 4px;
+    width: 150px;
+    height: 30px;
+}

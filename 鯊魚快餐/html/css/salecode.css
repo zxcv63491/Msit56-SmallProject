@@ -1,0 +1,41 @@
+#salecode {
+    
+
+    p {
+       max-width: 500px;
+       height: 200px;
+       margin-top: 250px;
+       margin-left: 35%;
+        font-size: 20px;
+        text-align: center;
+        background-color: white;
+        padding-top: 60px; 
+        box-shadow: 0px 0px 16px 8px rgba(0.2, 0.2, 0.2, 0.2);
+    }
+        
+        input{
+            max-width: 200px;
+            margin-left: 10px;
+            margin-top: 10px;
+            text-align: right;
+            height: 30px;
+            border: 1px black solid;
+            box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2)
+        }
+        button{
+            margin-left: 3px;
+            margin-top: 20px;
+            font-size: 15px;
+            color:#fff!important;
+            background-color:#f44336!important;
+            border:none;
+            transition:opacity 0s;
+            padding:8px 16px
+        }
+        button:hover{
+            box-shadow:0 8px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19)
+        }
+        button:active{opacity:0.5}
+       
+    }
+

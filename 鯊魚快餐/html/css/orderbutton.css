@@ -1,0 +1,26 @@
+.listlinks:hover {
+    background-color: #79e47e;
+  }
+  .listlinks.active {
+    background-color: #6ba363;
+  }
+#dataconfirm p{
+  display: inline-block;
+  
+}
+.confirmm{
+  margin-left: 3px;
+  margin-top: 20px;
+  font-size: 15px;
+  color:#fff!important;
+  background-color:#f44336!important;
+  border:none;
+  transition:opacity 0s;
+  padding:8px 16px;
+  cursor: pointer;
+  
+}
+.confirmm:hover{
+  box-shadow:0 8px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19)
+}
+.confirmm:active{opacity:0.5}
